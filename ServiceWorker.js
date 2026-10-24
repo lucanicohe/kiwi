@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-assgod2d-1.0";
 const contentToCache = [
-    "Build/kiwigame.loader.js",
-    "Build/kiwigame.framework.js",
-    "Build/kiwigame.data",
-    "Build/kiwigame.wasm",
+    "Build/kiwigame2.loader.js",
+    "Build/kiwigame2.framework.js",
+    "Build/kiwigame2.data",
+    "Build/kiwigame2.wasm",
     "TemplateData/style.css"
 
 ];
